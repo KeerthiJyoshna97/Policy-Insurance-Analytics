@@ -2,6 +2,21 @@
 
 An Excel-based Insurance Analytics project focused on analyzing policy, customer, claims, and payment data to generate business insights through interactive dashboards and KPI reporting.
 
+## 📊 Dashboard Preview
+
+### 🏠 Dashboard Home
+![Insurance Analytics Home](dashboard-home.png)
+
+### 📊 Policy Demographics Dashboard
+![Policy Demographics Dashboard](policy-demographics.png)
+
+### 📈 Policy Trends Dashboard
+![Policy Trends Dashboard](policy-trends.png)
+
+### 📋 Key Insights
+![Key Insights](key-insights.png)
+
+
 ## 📊 Project Overview
 
 This project analyzes an insurance dataset containing **5,000 policy records** along with customer, claims, payment, risk, and policy-related information.
